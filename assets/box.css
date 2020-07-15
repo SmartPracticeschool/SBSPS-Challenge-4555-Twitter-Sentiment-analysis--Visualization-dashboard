@@ -1,0 +1,175 @@
+.header{
+	border: 1.5px solid #404040;
+	border-radius: 10px;
+	width:100%;
+	margin-top: 0px;
+	height: 95px;
+	padding-bottom: 20px;
+	color:blue;
+}
+.list{
+	display: inline-flex;
+	vertical-align: top;
+	margin: 0;
+	padding:0;
+}
+
+.first_box{
+	border: 1.5px solid #404040;
+
+
+	border-radius: 10px;
+	width: 17%;
+	height: 110px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+}
+.sentiment_emotion_graph{
+	border: 1.5px solid #404040;
+	border-radius: 10px;
+	margin-top: 5px;
+	padding-left: 0;
+	margin-left: 0;
+	margin-right: 5px;
+	height:440px;
+}
+.confirm_countrywise{
+	border: 1.5px solid #404040;
+	border-radius: 10px;
+	height: 440px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	overflow-x: hidden;
+
+	overflow-y: auto;
+
+}
+
+
+
+.death_countrywise{
+	border: 1.5px solid #404040;
+	border-radius: 10px;
+	width:17;
+	margin-top: 0px;
+	height: 300px;
+	overflow-x: hidden;
+
+	overflow-y: auto;
+
+}
+.death_countywise_name{
+	border: 1.5px solid #404040;
+	border-radius:5px;
+	margin-top: 2px;
+	font-size: 13px;
+	text-align: center;
+	height:20px;
+	color:#66004d;
+}
+
+.map{
+		border: 1.5px solid #404040;
+	border-radius:5px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: gray;
+
+}
+.time_series_map{
+		border: 1.5px solid #404040;
+	border-radius:5px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;	
+	height:700px;
+}
+.custom-tabs-container {
+    
+    background-color: black;
+}
+.custom-tabs {
+    border-top-left-radius: 3px;
+    background-color: black;
+    
+    border-bottom: 1px solid #d6d6d6;
+}
+.custom-tab {
+    color:#e36209;
+
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-top: 3px solid transparent !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    border-bottom: 0px !important;
+    background-color: black;
+    padding: 12px !important;
+    font-family: "system-ui";
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+.custom-tab--selected {
+    color: #e36209;
+    background-color: black;
+    box-shadow: 1px 1px 0px white;
+
+    border-top: 3px solid #e36209 !important;
+}
+
+.morality_line_mark{
+	border: 1.5px solid #404040;
+	width: 50%;
+	height: 460px;
+	border-radius:5px;
+	margin-bottom: 15px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: black;
+}
+
+.morality_details{
+	border: 1.5px solid #404040;
+	
+	height: 257px;
+	border-radius:5px;
+
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	background-color: black;
+
+}
+
+.morality_details p{
+
+	color:white;
+	opacity: 0.4;
+	text-align: center;
+	padding: 5px;
+
+}
+
+.morality_details h2{
+	color:red;
+	text-align: center;
+}
+.morality_details h1{
+	color:red;
+	text-align: center;
+}
+.morality_details h4{
+	color:gray;
+	padding-left: 25px;
+}
+
+.footer{
+	border: 1.5px solid #404040;
+	border-radius:5px;
+}

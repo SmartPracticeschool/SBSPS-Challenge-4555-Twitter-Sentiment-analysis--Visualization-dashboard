@@ -1,0 +1,65 @@
+body{
+	background-color: black;
+}
+h1{
+	color: gray;
+	
+}
+h2{
+	color:red;
+}
+
+ol,li{
+	color:red;
+	list-style-type: none;
+	margin: 0;
+	padding-left:10px;
+	
+
+}
+
+h6{
+	color:gray;
+	opacity: 0.8;
+	font-size: 12.5px;
+	font-family:'Arial';
+}
+td{
+	color:white;
+	padding:4px;
+	opacity: 0.6;
+}
+caption{
+	color:#b30086;
+	font-size: 20px;
+	position: sticky;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  border-radius: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: black;
+  opacity: 0.6; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+a{
+	font-size: 25px;
+	float: right;
+	padding-right: 45px;
+	color:red;
+	text-decoration: none;
+}
