@@ -68,7 +68,7 @@ Here is the live, user interactive visualization dashboard to visualize the sent
 -	IBM API – model will be deployed on IBM
 
 # Report Links:
-- Final Report link: 
+- Final Report link: https://drive.google.com/file/d/1PbLuoPjv2aWP0_mv05iyYrknTVuc0ghy/view?usp=drivesdk
 - Video Demonstration Link :
 - ppt Link :
 
