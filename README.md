@@ -6,7 +6,7 @@ ___
 -	[Getting started](#getting-started)
 -	[Dashboard Fundamentals](#dashboard-fundamentals)
 -	[Resources](#resources) 
--	[Team members](#team-members)
+
 # About the project:
 <b>It presents  live streaming, fully user interactive, all-in-one dashboard with live sentiment and emotions of people</b> across the world about the COVID19 lockdown. 
 -	This app will give you the covid19 death and confirmed cases information for whole world as well as for each country. You can get the daily update on covid19 through the dashboard.
