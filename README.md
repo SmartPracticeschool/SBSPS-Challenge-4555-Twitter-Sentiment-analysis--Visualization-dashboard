@@ -59,7 +59,7 @@ Here is the live, user interactive visualization dashboard to visualize the sent
 # Resources:
 -	Dash – powerful tool for live data visualization with plotly python
 -	Tone analyser –  IBM tone analyser used for getting the emotions of the people base on tweets
--	NLU – A methodology that used to get the sentiment of the people
+-	NLP – A methodology that used to get the sentiment of the people
 -	Twitter Node in node-red – Tweets collection tool using the twitter API
 -	Cloudant – A NoSQL database on IBM
 -	IBM Watson – used to create the CovidBot without coding 
